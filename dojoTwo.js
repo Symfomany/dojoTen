@@ -1,0 +1,1 @@
+function kdigits(n, k) {}
