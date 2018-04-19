@@ -1,7 +1,7 @@
 # Dojo Ten: 2 pour le prix d'un !
 
 
-## Dojo 1: Algo du Mot de Pass Crypté:  Difficulté Facile (Niveau 7 CodeWar)
+## Dojo 1: Algo du Mot de Pass Crypté: (Niveau 7 CodeWar)
 
 Ecrire une fonction qui dit si tous les caractères d'une chaine soient présents dans une autre chaine tel que:
 
@@ -15,14 +15,12 @@ Ecrire une fonction qui dit si tous les caractères d'une chaine soient présent
 
 
 
-
-
-## Dojo 2: Algorithme du  K-Digits:  Difficulté Moyenne (Niveau 6 CodeWar)
+## Dojo 2: Algorithme du  K-Digits: (Niveau 6 CodeWar)
 
 Ecrire une fonction kdigits qui prend en paramètre 2 nombres: n et k tel que:
 
 
-* kdigits(63189, 2) =>  On enlève les 2 plus grands nombres, puis on cherche les 2 nombress le plus petit parmis les nombres restants: => [1,3]
+* kdigits(63289, 2) =>  On enlève les 2 plus grands nombres, puis on cherche le nombres le plus petit parmis les nombres restants: => "2"
 
 * kdigits(1032, 1) => "1" (sans le 0)
 
@@ -33,6 +31,10 @@ Ecrire une fonction kdigits qui prend en paramètre 2 nombres: n et k tel que:
 * kdigits(48576575, 3) => "4" (sans le 8,7,6)
 
 * kdigits(48576575, 3) => "4" (sans le 8,7,6)
+
+* kdigits(12131211212, 2) => "1"
+
+* kdigits(111112, 2) => "Aucun K nombre détécté" (sans le 1,2)
 
 * kdigits(1234, 4) => "Aucun K nombre détécté" (sans le 8,7,6)
 
