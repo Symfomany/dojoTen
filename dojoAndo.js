@@ -12,6 +12,7 @@ function crypto(motdepasse, hash) {
     });
   });
 
+  //   [true, true, true]
   return rep.includes(false) ? false : true;
 }
 
