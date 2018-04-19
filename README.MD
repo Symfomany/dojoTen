@@ -28,10 +28,6 @@ Ecrire une fonction kdigits qui prend en paramètre 2 nombres: n et k tel que:
 
 * kdigits(48576575, 3) => "4" (sans le 8,7,6)
 
-* kdigits(48576575, 3) => "4" (sans le 8,7,6)
-
-* kdigits(48576575, 3) => "4" (sans le 8,7,6)
-
 * kdigits(12131211212, 2) => "1"
 
 * kdigits(111112, 2) => "Aucun K nombre détécté" (sans le 1,2)
@@ -42,6 +38,6 @@ Ecrire une fonction kdigits qui prend en paramètre 2 nombres: n et k tel que:
 
 
 
-Bonus: Modifier la fonction afin qu'elle retourne LES K nombres plus petits:
+*Bonus: Modifier la fonction afin qu'elle retourne LES K nombres plus petits:*
 * kdigits(9573, 2) => [3,5] (sans le 9,7)
 
